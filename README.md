@@ -1,1 +1,11 @@
-The objective of the capstone project is to create a web development portfolio that demonstrates your skills, projects, and accomplishments. This portfolio will serve as a showcase of your abilities and will be a valuable asset in your web development journey. By completing the capstone project, you will have a comprehensive portfolio that reflects your progress, expertise, and readiness to take on more challenging web development projects.
+# Project Overview
+
+# Features and Functionality
+
+# Technologies Used
+
+# Screenshots or Demo
+
+# Roadmap and future enhancements
+
+# Contact information
